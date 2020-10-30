@@ -22,10 +22,10 @@ Using OpenCV and Python, an RGB color image can be converted into a pencil sketc
 4. Blend the grayscale image from step 1 with the blurred negative from step 3 using a color dodge.
 
 <a href="https://github.com/rutujak24">
-  <img width=40% align="center" src="https://github.com/rutujak24/Pencil-Sketch/blob/master/Rutuja.jpeg" />
+  <img width=40% align="center" src="https://github.com/rutujak24/Pencil-Sketch/blob/master/cat.jpeg" />
 </a>
 <a href="https://github.com/rutujak24">
-  <img width=40% align="center" src="https://github.com/rutujak24/Pencil-Sketch/blob/master/sketch.png" />
+  <img width=40% align="center" src="https://github.com/rutujak24/Pencil-Sketch/blob/master/cat.jpeg" />
 </a>
 
 

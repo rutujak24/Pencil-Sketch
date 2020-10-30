@@ -2,7 +2,7 @@
 
 ### Ever wondered how the photo editing apps generate a automatic pencil sketch of your photo? Here is a micro-byte wherein you can Sketchify your Photo using Open CV.
 
-Interesting image filter effects, such as a pencil sketch or a cartoonizer effect, do not have to be very computationally involved to look good. In fact, in order to create a beautiful black-and-white pencil sketch effect, all you essentially need is some blurring and two image blending techniques called dodging and burning.
+Interesting image filter effects, such as a pencil sketch, do not have to be very computationally involved to look good. In fact, in order to create a beautiful black-and-white pencil sketch effect, all you essentially need is some blurring and two image blending techniques called dodging and burning.
 
 Using OpenCV and Python, an RGB color image can be converted into a pencil sketch in four simple steps:
 
@@ -15,7 +15,7 @@ Using OpenCV and Python, an RGB color image can be converted into a pencil sketc
   <img width=40% align="center" src="https://github.com/rutujak24/Pencil-Sketch/blob/master/cat.jpeg" />
 </a>
 <a href="https://github.com/rutujak24">
-  <img width=40% align="center" src="https://github.com/rutujak24/Pencil-Sketch/blob/master/cat.jpeg" />
+  <img width=40% align="center" src="https://github.com/rutujak24/Pencil-Sketch/blob/master/sketch.jpeg" />
 </a>
 
 
